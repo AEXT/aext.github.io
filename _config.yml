@@ -2,11 +2,11 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://blog.alienx.cn
+url: http://alienx.wiki
 date_format: "ordinal"
 title: 小神先生
-subtitle: "守正出奇"
-description: "小神先生的个人博客"
+subtitle: "知识维基"
+description: "小神先生的知识维基"
 keywords: 网络空间安全, 小神先生, alienx
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -34,17 +34,6 @@ navs:
     href: /categories/
     label: 分类
 
-  -
-    href: /wiki/
-    label: 维基
-
-  -
-    href: /links/
-    label: 链接
-
-  -
-    href: /about/
-    label: 关于
 
 # ---------------- #
 #       RSS        #

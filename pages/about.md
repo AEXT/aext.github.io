@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 简要
-description: 守正出奇
+description: 知识维基
 keywords: 陆茂斌, 小神先生
 comments: false
 menu: 关于
@@ -12,7 +12,7 @@ permalink: /about/
 
 陆茂斌，广东顺德人。
 
-遵循「知行合一，守正出奇」的原则。
+遵循「知行合一，知识维基」的原则。
 
 ## 学历
 
