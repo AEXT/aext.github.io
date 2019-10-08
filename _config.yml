@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://alienx.wiki
+url: https://alienx.wiki
 date_format: "ordinal"
 title: 小神先生
 subtitle: "知识维基"
